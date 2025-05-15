@@ -13,6 +13,7 @@
 
 
 
+
 class Function {
 public:
 	// 加算
